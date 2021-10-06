@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/ip-location-app/static/css/main.a617e044.chunk.css",
-    "main.js": "/ip-location-app/static/js/main.004421ea.chunk.js",
-    "main.js.map": "/ip-location-app/static/js/main.004421ea.chunk.js.map",
-    "runtime-main.js": "/ip-location-app/static/js/runtime-main.03856302.js",
-    "runtime-main.js.map": "/ip-location-app/static/js/runtime-main.03856302.js.map",
-    "static/js/2.12a4a779.chunk.js": "/ip-location-app/static/js/2.12a4a779.chunk.js",
-    "static/js/2.12a4a779.chunk.js.map": "/ip-location-app/static/js/2.12a4a779.chunk.js.map",
-    "static/js/3.ea77a7ab.chunk.js": "/ip-location-app/static/js/3.ea77a7ab.chunk.js",
-    "static/js/3.ea77a7ab.chunk.js.map": "/ip-location-app/static/js/3.ea77a7ab.chunk.js.map",
+    "main.css": "/ip-location-app/static/css/main.622ed4a6.chunk.css",
+    "main.js": "/ip-location-app/static/js/main.a4946654.chunk.js",
+    "main.js.map": "/ip-location-app/static/js/main.a4946654.chunk.js.map",
+    "runtime-main.js": "/ip-location-app/static/js/runtime-main.249de772.js",
+    "runtime-main.js.map": "/ip-location-app/static/js/runtime-main.249de772.js.map",
+    "static/js/2.d0169be9.chunk.js": "/ip-location-app/static/js/2.d0169be9.chunk.js",
+    "static/js/2.d0169be9.chunk.js.map": "/ip-location-app/static/js/2.d0169be9.chunk.js.map",
+    "static/js/3.8db2a7ef.chunk.js": "/ip-location-app/static/js/3.8db2a7ef.chunk.js",
+    "static/js/3.8db2a7ef.chunk.js.map": "/ip-location-app/static/js/3.8db2a7ef.chunk.js.map",
     "index.html": "/ip-location-app/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/ip-location-app/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.12a4a779.chunk.js.LICENSE.txt": "/ip-location-app/static/js/2.12a4a779.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/ip-location-app/static/media/logo.6ce24c58.svg"
+    "static/css/main.622ed4a6.chunk.css.map": "/ip-location-app/static/css/main.622ed4a6.chunk.css.map",
+    "static/js/2.d0169be9.chunk.js.LICENSE.txt": "/ip-location-app/static/js/2.d0169be9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.03856302.js",
-    "static/js/2.12a4a779.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.004421ea.chunk.js"
+    "static/js/runtime-main.249de772.js",
+    "static/js/2.d0169be9.chunk.js",
+    "static/css/main.622ed4a6.chunk.css",
+    "static/js/main.a4946654.chunk.js"
   ]
 }
