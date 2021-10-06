@@ -1,3 +1,10 @@
+#parent {
+  display: flex;
+  height: 98vh;
+  justify-content: center;
+  align-items: center;
+}
+
 .App {
   align-self: center;
   display: grid;
@@ -11,7 +18,7 @@
   font-weight: 500;
 }
 
-h3 {
+h2 {
   grid-area: 1/1/2/4;
   margin-bottom: 5px;
 }
