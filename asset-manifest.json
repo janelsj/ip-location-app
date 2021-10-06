@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ip-location-app/static/css/main.622ed4a6.chunk.css",
-    "main.js": "/ip-location-app/static/js/main.a4946654.chunk.js",
-    "main.js.map": "/ip-location-app/static/js/main.a4946654.chunk.js.map",
+    "main.css": "/ip-location-app/static/css/main.bf25314a.chunk.css",
+    "main.js": "/ip-location-app/static/js/main.1367c933.chunk.js",
+    "main.js.map": "/ip-location-app/static/js/main.1367c933.chunk.js.map",
     "runtime-main.js": "/ip-location-app/static/js/runtime-main.249de772.js",
     "runtime-main.js.map": "/ip-location-app/static/js/runtime-main.249de772.js.map",
-    "static/js/2.d0169be9.chunk.js": "/ip-location-app/static/js/2.d0169be9.chunk.js",
-    "static/js/2.d0169be9.chunk.js.map": "/ip-location-app/static/js/2.d0169be9.chunk.js.map",
+    "static/js/2.52002811.chunk.js": "/ip-location-app/static/js/2.52002811.chunk.js",
+    "static/js/2.52002811.chunk.js.map": "/ip-location-app/static/js/2.52002811.chunk.js.map",
     "static/js/3.8db2a7ef.chunk.js": "/ip-location-app/static/js/3.8db2a7ef.chunk.js",
     "static/js/3.8db2a7ef.chunk.js.map": "/ip-location-app/static/js/3.8db2a7ef.chunk.js.map",
     "index.html": "/ip-location-app/index.html",
-    "static/css/main.622ed4a6.chunk.css.map": "/ip-location-app/static/css/main.622ed4a6.chunk.css.map",
-    "static/js/2.d0169be9.chunk.js.LICENSE.txt": "/ip-location-app/static/js/2.d0169be9.chunk.js.LICENSE.txt"
+    "static/css/main.bf25314a.chunk.css.map": "/ip-location-app/static/css/main.bf25314a.chunk.css.map",
+    "static/js/2.52002811.chunk.js.LICENSE.txt": "/ip-location-app/static/js/2.52002811.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.249de772.js",
-    "static/js/2.d0169be9.chunk.js",
-    "static/css/main.622ed4a6.chunk.css",
-    "static/js/main.a4946654.chunk.js"
+    "static/js/2.52002811.chunk.js",
+    "static/css/main.bf25314a.chunk.css",
+    "static/js/main.1367c933.chunk.js"
   ]
 }
